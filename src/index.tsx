@@ -1,4 +1,4 @@
-import { App } from "@/containers/App";
+import { App } from "@/app";
 import { BrowserRouter, useRoutes } from "react-router-dom";
 import React, { Suspense } from "react";
 import ReactDOM from "react-dom/client";
